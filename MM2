@@ -136,7 +136,7 @@ end);
 --<>----<>----<>----<>----<>----<>----<>--
 
 --<>----<>----<>----<>----<>----<>----<>--
-local Window = Library:CreateWindow({Title = "Valdimir Source 🔥| Murder Mystery 2"});
+local Window = Library:CreateWindow({Title = "Valdimir | Murder Mystery 2"});
 local Tab1 = Window:CreateTab({Title = "Main", ScrollBar = false});
 local Tab2 = Window:CreateTab({Title = "Economy", ScrollBar = false});
 local Tab3 = Window:CreateTab({Title = "Roles", ScrollBar = false});
